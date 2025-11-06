@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on [Horsetek](https://horsetek.eu)
+- 🔭 I’m currently working with [Horsetek](https://horsetek.eu)
 
 - 🌱 Currently learning **Kubernetes and Advanced Network Infrastructure**
 
