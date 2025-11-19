@@ -1,7 +1,5 @@
 - 🔭 I’m currently working with [Horsetek](https://horsetek.eu)
 
-- 🌱 Currently learning **Kubernetes and Advanced Network Infrastructure**
-
 - 👨‍💻 My Website [https://alexivancpa11.netlify.app/](https://alexivancpa11.netlify.app/)
 <br>
 <picture>
@@ -24,6 +22,7 @@
 
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=AlexIvanCPA11&theme=neon&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexIvanCPA11&theme=neon&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+<p><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=AlexIvanCPA11&theme=neon&hide_border=true"/></p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexIvanCPA11&theme=neon&hide_border=true&include_all_commits=true&count_private=true" /> </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexIvanCPA11&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=compact" /> </p>
