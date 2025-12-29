@@ -1,8 +1,8 @@
-- 🔭 I’m currently working with [Horsetek](https://horsetek.eu)
+- 🔭📈 I’m currently working with [Horsetek](https://horsetek.eu)
 
-- 👨‍💻 My Website [https://alexivancpa11.netlify.app/](https://alexivancpa11.netlify.app/)
+- 👨‍💻🌐My Website [https://alexivancpa11.netlify.app/](https://alexivancpa11.netlify.app/)
 
-- 🦊 GitLab Page [AlexIvanCPA11](https://gitlab.com/AlexIvanCPA11) -- slowly making transition to GitLab
+- 🦊💻 GitLab Page [AlexIvanCPA11](https://gitlab.com/AlexIvanCPA11) -- slowly making transition to GitLab
 <br>
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./output.gif">
